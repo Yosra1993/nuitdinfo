@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/nuitdinfo/precache-manifest.fb880479cc2645b54df71acb16ea9206.js"
+  "/nuitdinfo/precache-manifest.a1fda4d52dde921f66873d6f20ae227e.js"
 );
 
 workbox.clientsClaim();
