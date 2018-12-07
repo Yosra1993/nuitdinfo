@@ -1,0 +1,13 @@
+.DivBg{
+  margin: 2%;
+  background-color: rgba(200, 100, 20, 1);
+  color: white;
+  display: flex; /*justify-content: space-around;*/
+  border-radius: 5px;
+}
+.Divleft{  
+  text-align: center; margin-right: 4%;
+  border-radius: 8px; display: flex; flex-direction: column; justify-content: center; flex-basis: 30%;
+}
+.img{background-color: white; border-radius: 90px; width: 200px; margin: 1%; display: flex; justify-content: center; align-self: center;}
+.img img{padding-top: 4%;}
