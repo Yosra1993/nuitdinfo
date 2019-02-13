@@ -14,7 +14,18 @@ class App extends Component {
     l: 80,
     a: 100
   };
-  
+  // handleSaturation = value => {
+  //   this.setState({
+  //     s: value,
+  //   });
+  // };
+
+  // handleLightness = value => {
+  //   this.setState({
+  //     l: value,
+  //     linve:100-value
+  //   });
+  // };
   handleSaturation = value => {
     this.setState({
       s: value,
